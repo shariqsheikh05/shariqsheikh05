@@ -5,7 +5,8 @@
 - 📫 Reach me at >>>
 - Instagram - __sunrise_x_
 - Mail - shariqsheikh05@gmail.com
-- LinkedIn - 
+- LinkedIn - https://www.linkedin.com/in/shariq-sheikh-34427b235
+- 
 
 <!---
 shariqsheikh05/shariqsheikh05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
