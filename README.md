@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development with AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at >>>
-- Instagram - __sunrise_x_
+- Instagram - __sharkitech_
 - Mail - shariqsheikh05@gmail.com
 - LinkedIn - https://www.linkedin.com/in/shariq-sheikh-34427b235
 - 
