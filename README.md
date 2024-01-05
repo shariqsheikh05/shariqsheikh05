@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shariq Sheikh
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Development with AWS
+- 🌱 I’m currently learning Full Stack Web Development with AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at >>>
 - Instagram - __sharkitech_
